@@ -1,0 +1,19 @@
+{
+  "name": "app-peliculas",
+  "version": "1.0.0",
+  "description": "consumo de API REST con javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RosaGR01/app-peliculas.git"
+  },
+  "author": "rosalba galicia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RosaGR01/app-peliculas/issues"
+  },
+  "homepage": "https://github.com/RosaGR01/app-peliculas#readme"
+}
